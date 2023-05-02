@@ -1,3 +1,94 @@
 ## Cloud Native Software Engineering Syllabus
 
-#### Introduction
+
+
+_Note that this file is an overview of the course, for all the details including the super fine print see the PDF version here -> [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering.pdf)_
+
+#### Course Objectives
+Introduction to various aspects of software design, development and architecture used to create modern cloud computing software products.  Focus will be placed on covering software engineering concepts, techniques and technologies used to build and deploy applications that run at scale on cloud infrastructure.  Key topics include cloud native software engineering concepts such as working with API-driven infrastructure, software design/architecture considerations for cloud native applications, and various modern technology stacks used in creating cloud software products.  
+
+This course does not require previous background in cloud computing but does assume the student has some background in software design, software architecture and software development.   
+
+#### Lecture Format
+This course will balance both theory and practical application.  Most lectures will be structured with 2/3 of the content on cloud native software engineering concepts, with the remaining 1/3 being hands on tutorials on specific cloud native technologies.  
+
+#### Topis (Roughly by Week)
+1.	Introduction to cloud computing
+    -	Cloud computing models – IaaS, PaaS, FaaS
+    -	Fully managed cloud services
+    -	Cloud infrastructure concepts – Regions, Availability Zones
+    -	Cloud native application characteristics – Scalability, Elasticity, Resiliency, Automation
+    -	The big 3 cloud providers – AWS, Azure, GCP
+    -	**Tutorial:** _Introduction to the Go programming language_
+
+2.	Software Architectures for Cloud Native Application
+    - Event-based architectures
+    - Cloud Architecture Patterns for resiliency and scale
+    - **Tutorial:** _Go programming continued, API frameworks for Golang_
+
+3.	Designing Cloud Native Applications
+    - Domain Driven Design Composition
+    - Reference Architectures for Cloud Computing Products
+    - **Tutorial:** _API Construction and Analysis – Request/Reply (REST) & Event Based APIs_
+
+4.	API Construction and Deployment
+    - Best practices for API construction
+    - API Framework components – Routes, Middleware, Asynchronous actions
+    - Deep dive into creating Go-based APIs with Golang-Gin.  Design, Deployment, Testing
+    - API Ecosystem – API Catalogs, API Gateways, API Security w/ oAuth
+    - **In Class Workshop:**  _Guided tour creating and developing two collaborating APIs_
+
+5.	Containerization
+    - Docker Architecture Overview
+    - Container Architecture Overview
+    - Practices for Building, Deploying, and managing containers
+    - **Tutorial:** _Docker_
+
+6.	Container Orchestration
+    - Why containers must be orchestrated
+    - Container integration concepts
+    - Container architecture concepts
+    - Container networking 
+    - **Tutorial:** _Container Orchestration – Docker Compose_
+
+7.	Kubernetes – Industrial Strength Container Orchestration
+    - Kubernetes Overview
+    - Kubernetes Architecture
+    - **Tutorial:** _Kubernetes Part 1_
+
+8.	Kubernetes – Industrial Strength Container Orchestration
+    - Kubernetes Architecture Continued
+    - Kubernetes offerings in the cloud
+    - Managing Kubernetes Deployments – e.g., Helm Charts
+    - **Tutorial:** _Kubernetes Part 2_
+
+9.	Function as a Services
+    - FaaS concepts
+    - FaaS tradeoffs vs Containers
+    - **Tutorial:** _OpenFaaS/ KNative_
+
+10.	Additional Considerations for Cloud Native Software Engineering
+    - Security Policy Management - IAM
+    - Data Considerations for Cloud Native Applications
+    - Walkin topics for discussion
+    - **In Class Demo:** _Cloud Database Setup_
+
+#### Expected Learning
+By the end of this course the student should be expected to have a solid grasp on:
+
+* Basic knowledge of programming languages used in modern cloud platforms – this class will focus on Go – aka GoLang
+
+* Software architectures, frameworks and patterns used to construct resilient and scalable microservices and modern API based software products
+
+* Working with Popular cloud native services such as Docker, Kubernetes, and FaaS offerings
+
+* Cloud infrastructure architecture – regions, availability zones, edge locations
+
+#### Textbook
+There is no required textbook for this course.  Materials will be provided by the instructor in Blackboard, and students will be expected to review online materials (websites, Blogs, YouTube videos) provided by the instructor.
+
+#### Time Commitment
+The time commitment required to successfully complete this course **_will vary significantly_** depending on students experience with software development toolchains, programming languages and build tools. If you have any questions or doubts about your readiness to take this course please setup time with the instructor to discuss.
+
+---
+##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering.pdf)_
