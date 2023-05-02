@@ -91,4 +91,4 @@ There is no required textbook for this course.  Materials will be provided by th
 The time commitment required to successfully complete this course **_will vary significantly_** depending on students experience with software development toolchains, programming languages and build tools. If you have any questions or doubts about your readiness to take this course please setup time with the instructor to discuss.
 
 ---
-##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdfCloud-Native-Software-Engineering-Syllabus.pdf)_
+##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdf)_
