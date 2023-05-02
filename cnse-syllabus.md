@@ -1,6 +1,6 @@
 ## Cloud Native Software Engineering Syllabus
 
-
+**INSTRUCTOR:** [Dr. Brian Mitchell](https://www.cs.drexel.edu/~bmitchell)
 
 _Note that this file is an overview of the course, for all the details including the super fine print see the PDF version here -> [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering.pdf)_
 
