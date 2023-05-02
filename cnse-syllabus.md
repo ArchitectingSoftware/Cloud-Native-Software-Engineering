@@ -2,7 +2,7 @@
 
 **INSTRUCTOR:** [Dr. Brian Mitchell](https://www.cs.drexel.edu/~bmitchell)
 
-_Note that this file is an overview of the course, for all the details including the super fine print see the PDF version here -> [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering.pdf)_
+_Note that this file is an overview of the course, for all the details including the super fine print see the PDF version here -> [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdf)_
 
 #### Course Objectives
 Introduction to various aspects of software design, development and architecture used to create modern cloud computing software products.  Focus will be placed on covering software engineering concepts, techniques and technologies used to build and deploy applications that run at scale on cloud infrastructure.  Key topics include cloud native software engineering concepts such as working with API-driven infrastructure, software design/architecture considerations for cloud native applications, and various modern technology stacks used in creating cloud software products.  
@@ -91,4 +91,4 @@ There is no required textbook for this course.  Materials will be provided by th
 The time commitment required to successfully complete this course **_will vary significantly_** depending on students experience with software development toolchains, programming languages and build tools. If you have any questions or doubts about your readiness to take this course please setup time with the instructor to discuss.
 
 ---
-##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering.pdf)_
+##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdfCloud-Native-Software-Engineering-Syllabus.pdf)_
