@@ -90,5 +90,12 @@ There is no required textbook for this course.  Materials will be provided by th
 #### Time Commitment
 The time commitment required to successfully complete this course **_will vary significantly_** depending on students experience with software development toolchains, programming languages and build tools. If you have any questions or doubts about your readiness to take this course please setup time with the instructor to discuss.
 
+#### Grading
+Grades **FOR THIS TERM** will be weighted as follows:
+
+1. 65% hands on assignments (both programming and non-programming)
+2. 30% online quizzes, roughly 3 of them over the term.
+3. 5% for class participation and providing feedback. 
+
 ---
-##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdf)_
+##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdf)_.  The PDF has all of the super fine print, but the grading breakdown and latest coure changes are reflected here. Please make sure you read it.
