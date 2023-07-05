@@ -4,7 +4,7 @@ The "Above The Clouds" paper by Berkeley is considered one of the seminal papers
 
 #### Assignment
 
-Start by reading the paper, you can get it here: [Above The Clouds: A Berkeley View of Cloud Computing](./AboveTheClouds.pdf).  [Note that GitHub sometimes has trouble rendering PDFs directly, if you run into this you can hit the download icon - it looks like this <img src="./GH_Download_Icon.png" height="20 "> in the menu bar- to get this paper].  After reading the paper, provide a short summary addressing the following:
+Start by reading the paper, you can get it here: [Above The Clouds: A Berkeley View of Cloud Computing](./AboveTheClouds.pdf).  [Note that GitHub sometimes has trouble rendering PDFs directly, if you run into this you can hit the download icon - it looks like this <img src="./GH_Download_Icon.png" height="25"> in the menu bar- to get this paper].  After reading the paper, provide a short summary addressing the following:
 
 1. One of the primary objectives of this paper is to motivate how Cloud Computing can redefine _"Computing as a Utility"_.  From a utility, think about things like power and water - you turn the light switch on, and the lights come on without you having to know anything about the complex aspects needed to deliver the power to your house.  Same for water, you turn on the sink and safe, clean water flows out of the faucet (at least I hope it does).  Using power and water as a conceptual model for a utility, how well do you think this paper motivates **RAW COMPUTE ASPECTS** of Cloud Computing as a utility?  By _"raw compute aspects"_ I mean pure computing resources such as processing (CPU/GPU, etc.), storage, and network. 
 
