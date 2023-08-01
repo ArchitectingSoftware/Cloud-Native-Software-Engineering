@@ -1,4 +1,4 @@
-## API Design Assignment
+## API Design Assignment (Part 2)
 
 **HEADS UP - Please don't freak out by the length of this assignment, its actually not that much work!  This material is actually lecture material that I will be covering to help you with the design objectives of what I am asking you to do for this assignment.**
 
@@ -173,14 +173,15 @@ While this is commonly done, there is a better way.  That is the goal of your as
 
 Finally, this is what you need to do.
 
-Start by watching the following video from the 2018 Google Cloud Next Conference on Designing Quality APIs - https://www.youtube.com/watch?v=P0a7PwRNLVU.
+For reference, remember part 1 of this assignment involved reviewing this video - https://www.youtube.com/watch?v=P0a7PwRNLVU.
 
-After that do some research on Hypermedia as the engine of application state (HATEOAS).  Here is the wikipedia page - https://en.wikipedia.org/wiki/HATEOAS.  You can also use ChatGPT, other google resources, etc.  Other keywords that can help you are `hypermedia`.
+For this assignment I want you to do some independent research on Hypermedia as the engine of application state (HATEOAS).  Here is the wikipedia page - https://en.wikipedia.org/wiki/HATEOAS.  You can also use ChatGPT, other google resources, etc.  Other keywords that can help you are `hypermedia`.
 
 After you grasp some of these concepts, please do the following:
 
-1. Make some proposals to change the APIs above to incorporate hypermedia into the design.  Note I dont want you creating new APIs (stick to the 3 above), but describe how you would change the API structures to better support a hypermedia driven approach.
-2. Write a brief description of how these APIs would work together a little better using these concepts. Focus on the perspective of the user of your API, how would this be easier for him/her?
+1. Make some proposals to change the APIs above to incorporate hypermedia into the design of our voting application.  Note I dont want you creating new APIs (stick to the 3 above), but describe how you would change the API structures to better support a hypermedia driven approach.  Note you can add additional fields to support the `hypermedia` concepts or change existing fields.  
+2. Write a brief description of how these APIs would work together a little better using these concepts. Focus on the perspective of the user of your API, how would this better support the interactions between the APIs supporting an application?
+3. Provide at least 2 references that you found helpful during this activity.  Note you dont need to formally cite them, just a link would be OK.  
 
 
 
