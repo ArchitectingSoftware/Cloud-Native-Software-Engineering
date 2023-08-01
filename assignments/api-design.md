@@ -95,11 +95,12 @@ This poll has an ID of `1` and is setup to ask a voter to select their favorite 
 
 ### The `Votes` API
 
-The purpose of the `Votes API` is to create and maintain a collection of _Vote_ records.  To keep things simple our vote records will capture the ID of the Voter, the ID of the Poll, and the selection the voter made (`VoteValue`).  See below:
+The purpose of the `Votes API` is to create and maintain a collection of _Vote_ records.  To keep things simple our vote records will capture a unique ID for the vote itself, the ID of the Voter, the ID of the Poll, and the selection the voter made (`VoteValue`).  See below:
 
 ```go
 type Vote struct {
-    VoterID   uint
+	VoteID    uint
+	VoterID   uint
 	PollID    uint
 	VoteValue uint
 }
@@ -110,8 +111,9 @@ As an example, consider the following code:
 ```go
 func NewSampleVote() *Vote {
 	return &Vote{
-        VoterID:   1,
+		VoteID:    1,
 		PollID:    1,
+		VoterID:   1,
 		VoteValue: 1,
 	}
 }
@@ -167,7 +169,7 @@ While this design approach is OK, it requires somebody using these collection of
 
 While this is commonly done, there is a better way.  That is the goal of your assignment.
 
-### The asignment - FINALLY
+### The Assignment - FINALLY
 
 Finally, this is what you need to do.
 
