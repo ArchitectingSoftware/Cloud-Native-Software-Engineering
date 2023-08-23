@@ -50,7 +50,7 @@ For the final assignment, we are going to implement this voting system with thes
 
 1. Construct your final system consisting of the 3 APIs that allow appropriate interaction between the APIs.
 2. Your solution should use hypermedia to support the intra-API integration
-3. The APIs should be able to be deployed using full automation with Docker Compose or Kubernetes. 
+3. The APIs should be able to be deployed using full automation with Docker Compose or Kubernetes. Thus all APIs must be containerized. 
 4. You should have a simple CLI or scripts that can be executed via the command line or the make utility to demonstrate your solution. 
 
 Please submit your final project in a directory in your git repository that you have been using all term and provide a link to this in the submission.
