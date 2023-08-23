@@ -20,7 +20,7 @@ In that homework specifically, I showed a conceptual relationship between the `V
 └───────────┘                 └───────────┘
 ```
 
-Note that this design offers maximum flexibility, in that all resources can be used as a starting point and with hypermedia can support helping client applications navigate to any other dependant resource. 
+Note that this design offers maximum flexibility, in that all resources can be used as a starting point to navigate other APIs using hypermedia.  This solution can support simplifying client applications with navigation to any other dependant resource. 
 
 While nice, having excessive flexibility can also lead to more complexity as client applications need to be able to interpret API results and then either use documentation to manually code what to do next, or hypermedia help to drive the integration between APIs.
 
