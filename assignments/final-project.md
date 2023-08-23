@@ -24,7 +24,7 @@ Note that this design offers maximum flexibility, in that all resources can be u
 
 While nice, having excessive flexibility can also lead to more complexity as client applications need to be able to interpret API results and then either use documentation to manually code what to do next, or hypermedia help to drive the integration between APIs.
 
-Sometimes the best API designs are opinionated into how collections of APIs can be used with each other.  While this restricts flexibility, it can make using your APIs easier in the long run. 
+Sometimes the best API designs are opinionated with respect to how collections of APIs can be used with each other.  While this restricts flexibility, it can make using your APIs easier in the long run. 
 
 Consider if we changed things a little:
 
