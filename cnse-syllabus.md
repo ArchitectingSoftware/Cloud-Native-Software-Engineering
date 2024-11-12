@@ -73,6 +73,8 @@ This course will balance both theory and practical application.  Most lectures w
     - Walkin topics for discussion
     - **In Class Demo:** _Cloud Database Setup_
 
+11. Final course programming assignments due - coordinating containerized APIs.  See the section on the course project for more information. 
+
 #### Expected Learning
 By the end of this course the student should be expected to have a solid grasp on:
 
@@ -83,6 +85,14 @@ By the end of this course the student should be expected to have a solid grasp o
 * Working with Popular cloud native services such as Docker, Kubernetes, and FaaS offerings
 
 * Cloud infrastructure architecture – regions, availability zones, edge locations
+
+#### Programming & The Course Project
+This course places significant emphasis on hands on software development using the `go` programming language, but also assumes that students have no prior knowledge of `go`.  The initial programming assignments will be derived from the in-class tutorial to get students up to speed.  From there, there will be hands on assignments that cover building and containerizing simple APIs using modern `go` frameworks such as `gin` and `fiber`.   The final half of the course will focus on combining what we have learned into a course project that will incorporate:
+
+* API design best practices
+* API implementation and containerization
+* API integration and orchestration with 3rd party containerized services such as `redis` and `mysql`.
+* Deployment of a multi-API system consisting of both student-developed and 3rd party code into a container orchestration system.
 
 #### Textbook
 There is no required textbook for this course.  Materials will be provided by the instructor in Blackboard, and students will be expected to review online materials (websites, Blogs, YouTube videos) provided by the instructor.
@@ -95,7 +105,7 @@ Grades **FOR THIS TERM** will be weighted as follows:
 
 1. 65% hands on assignments (both programming and non-programming)
 2. 30% online quizzes, roughly 3 of them over the term.
-3. 5% for class participation and providing feedback. 
+3. 5% for class participation and providing feedback targeted at ongoing course improvements. 
 
 ---
 ##### _The full PDF version of this syllabus is here: [CNSE-Full-Syllabus](./assets/Cloud-Native-Software-Engineering-Syllabus.pdf)_.  The PDF has all of the super fine print, but the grading breakdown and latest coure changes are reflected here. Please make sure you read it.
